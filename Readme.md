@@ -24,3 +24,4 @@ Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-wi
 
 In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
 
+![iphone_serial](./images/serial_iphone.jpeg)

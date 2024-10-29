@@ -11,3 +11,8 @@ In order to find the serial of your MacBook Open ``System Settings`` from the Ap
 In the search box in the top left of the ```System Settings`` window write ``about`` and click the first item in the list
 
 ![apple](./images/apple_serial.png)
+
+
+## Laptop Windows
+
+Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/) to see how to see the serial number of your windows laptop.

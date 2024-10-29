@@ -7,3 +7,7 @@ Here you can find istructions for finding serial numbers of your hardware
 In order to find the serial of your MacBook Open ``System Settings`` from the Apple icon in the top left of your screen
 
 ![apple](./images/apple.png)
+
+In the search box in the top left of the ```System Settings`` window write ``about`` and click the first item in the list
+
+![apple](./images/apple_serial.png)

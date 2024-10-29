@@ -8,9 +8,11 @@ In order to find the serial of your MacBook Open ``System Settings`` from the Ap
 
 ![apple](./images/apple.png)
 
-In the search box in the top left of the ```System Settings`` window write ``about`` and click the first item in the list
+In the search box in the top left of the ```System Settings`` window write ``about`` or `ìnformacion`` or ``serial`` and click the first item in the list
 
 ![apple](./images/apple_serial.png)
+
+Here you can find the serial of your macbook.
 
 
 ## Laptop Windows
@@ -20,4 +22,5 @@ Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-wi
 
 ## Mobiles - Iphone
 
-Test
+In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
+

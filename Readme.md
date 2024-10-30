@@ -19,10 +19,18 @@ Here you can find the serial of your macbook.
 
 Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/) to see how to see the serial number of your windows laptop.
 
-
 ## Mobiles - Iphone
 
-Open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
-Here you can find the serial of your iphone.
+In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
 
 ![iphone_serial](./images/serial_iphone.jpeg)
+
+
+## Mobiles - Samsung
+
+Open ``settings`` or ``Ajustes`` 
+![samsung settings](./images/samsung_settings.jpg) 
+
+select ``About`` or ``Acerca del telèfono`` 
+
+![samsung settings](./images/samsung_acerca.jpg)

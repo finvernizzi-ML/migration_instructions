@@ -28,9 +28,6 @@ In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``abou
 
 ## Mobiles - Samsung
 
-Open ``settings`` or ``Ajustes`` 
+Open ``settings`` or ``Ajustes``  then select ``About`` or ``Acerca del telèfono`` 
+
 ![samsung settings](./images/samsung_settings.jpg) 
-
-select ``About`` or ``Acerca del telèfono`` 
-
-![samsung settings](./images/samsung_acerca.jpg)

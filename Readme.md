@@ -30,6 +30,8 @@ Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-wi
 
 ## Mobiles Iphone
 
+> Serials listed in the [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing) in some cases can have a leadind ``S`` or ``C`` with respect to the serial you find in your terminal.
+
 In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
 
 ![iphone_serial](./images/serial_iphone.jpeg)

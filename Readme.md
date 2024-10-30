@@ -17,7 +17,7 @@ In order to find the serial of your MacBook Open ``System Settings`` from the Ap
 
 ![apple](./images/apple.png)
 
-In the search box in the top left of the ```System Settings`` window write ``about`` or `ìnformacion`` or ``serial`` and click the first item in the list
+In the search box in the top left of the ``System Settings`` window write ``about`` or `ìnformacion`` or ``serial`` and click the first item in the list
 
 ![apple](./images/apple_serial.png)
 

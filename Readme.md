@@ -1,5 +1,8 @@
 # Hardware serials
 
+Please fill in this [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing).
+Use your monstar-lab.com account to access it
+
 Here you can find istructions for finding serial numbers of your hardware
 
 - [MacBook](#laptop-macbook)

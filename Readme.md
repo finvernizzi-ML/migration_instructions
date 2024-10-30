@@ -39,6 +39,7 @@ In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``abou
 
 ## Mobiles Samsung
 
-Open ``settings`` or ``Ajustes``  then select ``About`` or ``Acerca del teléfono`` 
+Open ``settings`` or ``Ajustes``  then select ``About`` or ``Acerca del teléfono``.
+In the [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing), tab ``Mobile - Samsung``, you should look for one of the **IMEI** (tipically the first one) shown in the page.
 
 ![samsung settings](./images/samsung_settings.jpg) 

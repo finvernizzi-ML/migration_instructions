@@ -22,6 +22,7 @@ Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-wi
 
 ## Mobiles - Iphone
 
-In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
+Open ``settings`` or `Àjustes`` and in the search input put ``about`` or `ìnformacion`` or ``serial``, then click the ``about`` or `ìnformacion`` item.
+Here you can find the serial of your iphone.
 
 ![iphone_serial](./images/serial_iphone.jpeg)

@@ -2,7 +2,7 @@
 
 ## Backup
 
-> Be absolutely sure to have a copy of all the data (photos, inotes, documents, ...). *The procedure illustrated here is not reversible*
+> Be absolutely sure to have a copy of all the data (photos, inotes, documents, ...). **The procedure illustrated here is not reversible**
 
 
 ## Procedure

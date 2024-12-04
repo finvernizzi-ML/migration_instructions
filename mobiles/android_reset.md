@@ -4,15 +4,16 @@
 > **¡Cuidado! Las siguientes operaciones son irreversibles**
 
 Ir a Ajustes > Administración general > Restablecer > Restablecer ajustes de fábrica > Restablecer
-![../images/a_1.jpg]
 
-![../images/a_2.jpg]
+![](../images/a_1.jpg)
 
-![../images/a_3.jpg]
+![](../images/a_2.jpg)
 
-![../images/a_4.jpg]
+![](../images/a_3.jpg)
 
-![../images/a_5.jpg]
+![](../images/a_4.jpg)
+
+![](../images/a_5.jpg)
 
 Se abrirá pantalla en donde te dirá que debes “Introducir tu PIN actual”
 Pulsar "Eliminar todo"

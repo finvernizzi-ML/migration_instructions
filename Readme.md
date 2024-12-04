@@ -1,4 +1,11 @@
-# Hardware serials
+## Mobile Reset
+
+For instruction on how reset an Iphone 14 please refer to [this link](mobiles/iphone_reset)
+
+
+
+
+## Hardware serials
 
 Please fill in your details in this [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing).
 
@@ -11,7 +18,7 @@ Here you can find istructions for finding serial numbers of your hardware
 - [Iphone](#mobiles-iphone)
 - [Samsung](#mobiles-samsung)
 
-## Laptop MacBook
+### Laptop MacBook
 
 In order to find the serial of your MacBook Open ``System Settings`` from the Apple icon in the top left of your screen
 
@@ -24,11 +31,11 @@ In the search box in the top left of the ``System Settings`` window write ``abou
 Here you can find the serial of your macbook.
 
 
-## Laptop Windows
+### Laptop Windows
 
 Please refer to [this page](https://www.howtogeek.com/294712/how-to-find-your-windows-pcs-serial-number/) to see how to see the serial number of your windows laptop.
 
-## Mobiles Iphone
+### Mobiles Iphone
 
 > Serials listed in the [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing) in some cases can have a leadind ``S`` or ``C`` with respect to the serial you find in your terminal.
 
@@ -37,7 +44,7 @@ In an Iphone open ``settings`` or `Àjustes`` and in the search input put ``abou
 ![iphone_serial](./images/serial_iphone.jpeg)
 
 
-## Mobiles Samsung
+### Mobiles Samsung
 
 Open ``settings`` or ``Ajustes``  then select ``About`` or ``Acerca del teléfono``.
 In the [worksheet](https://docs.google.com/spreadsheets/d/17m4oCpdMDqBIbVGonnpGqMsnquwC1m6luj7pF50o108/edit?usp=sharing), tab ``Mobile - Samsung``, you should look for one of the **IMEI** (tipically the first one) shown in the page.

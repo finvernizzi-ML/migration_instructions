@@ -5,15 +5,15 @@
 
 Ir a Ajustes > Administración general > Restablecer > Restablecer ajustes de fábrica > Restablecer
 
-![](../images/a_1.jpg)
+<img src="../images/a_1.jpg" alt="drawing" width="100"/>
 
-![](../images/a_2.jpg)
+<img src="../images/a_2.jpg" alt="drawing" width="100"/>
 
-![](../images/a_3.jpg)
+<img src="../images/a_3.jpg" alt="drawing" width="100"/>
 
-![](../images/a_4.jpg)
+<img src="../images/a_4.jpg" alt="drawing" width="100"/>
 
-![](../images/a_5.jpg)
+<img src="../images/a_5.jpg" alt="drawing" width="100"/>
 
 Se abrirá pantalla en donde te dirá que debes “Introducir tu PIN actual”
 Pulsar "Eliminar todo"

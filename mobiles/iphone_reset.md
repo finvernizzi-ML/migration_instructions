@@ -11,6 +11,8 @@ Goto general -> Transferir orestablecer el dispositivo
 
 ![general](../images/1.jpg)
 
+Click *Borrar cibtenidos y ajustes* in the lower part of the window
+
 ![reset](../images/2.jpg)
 
 ![general](../images/3.jpg)

@@ -5,7 +5,7 @@ For instruction on how reset an Iphone 14 please refer to [this link](mobiles/ip
 For instruction on how reset an Android phone please refer to [this link](mobiles/android_reset)
 
 
-## Laptio Reset
+## Laptop Reset
 
 For instructions on howto reset an Apple Mac to factory default refer to [this link](laptops/macos.md)
 
